@@ -6,7 +6,7 @@ I'm Ricko from Indonesia, and I am a vocational high school student who is very 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickosong&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#### LANGUAGE & TOOLS
+#### LANGUAGE, FRAMEWORK & TOOLS
 ![badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
