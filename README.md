@@ -7,7 +7,7 @@ I'm Ricko from Indonesia, and I am a vocational high school student who is very 
 ### MY GITHUB STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickosong&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickosong&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickosong&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 #### LANGUAGE & TOOLS
 ![badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,6 +26,6 @@ I'm Ricko from Indonesia, and I am a vocational high school student who is very 
 ![badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### CONTACT
-![badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+<a href="https://open.spotify.com/user/31agt6eozvk77m6tjpftq2smqr4e"> ![badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) </a>
 ![badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://www.instagram.com/morito_desu/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<a href="https://www.instagram.com/morito_desu/"> ![badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </a>
