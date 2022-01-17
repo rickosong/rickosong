@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ricko from Indonesia, and I am a vocational high school student who is very interested in the world of programming, I like to learn new things about technology and programming, although maybe at this time I don't have much knowledge about programming, but I hope that I can achieve my dream of becoming a professional programmer.
+I'm Ricko from Indonesia, and I am a vocational high school student who is very interested in the world of programming especially web programming, I like to learn new things about technology and programming, although maybe at this time I don't have much knowledge about programming, but I hope that I can achieve my dream of becoming a professional programmer.
 <br>
 <br>
 
