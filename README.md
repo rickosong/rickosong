@@ -7,7 +7,7 @@ I'm Ricko from Indonesia, and I am a vocational high school student who is very 
 ### MY GITHUB STATS
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rickosong&show_icons=true&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rickosong&show_icons=true&theme=radical_height=21"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickosong&layout=compact&theme=radical"/>
 </p>
 
