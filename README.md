@@ -11,6 +11,7 @@ I'm Ricko from Indonesia, and I am a vocational high school student who is very 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickosong&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
 </p>
 
+
 #### LANGUAGE & TOOLS
 
 ![badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,11 +23,13 @@ I'm Ricko from Indonesia, and I am a vocational high school student who is very 
 ![badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
 #### FRAMEWORK
 
 ![badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 #### CONTACT
 
