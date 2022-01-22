@@ -5,11 +5,9 @@ I'm Ricko from Indonesia, and I am a vocational high school student who is very 
 <br>
 
 ### MY GITHUB STATS
-<p align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickosong&show_icons=true&theme=radical)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickosong&layout=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 #### LANGUAGE & TOOLS
 ![badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
