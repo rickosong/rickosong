@@ -6,9 +6,9 @@ I'm Ricko from Indonesia, and I am a vocational high school student who is very 
 
 ### MY GITHUB STATS
 
-<p align="center" style="display:inline;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rickosong&show_icons=true&theme=radical&line_height=20"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickosong&layout=compact&theme=radical"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickosong&show_icons=true&theme=radical" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickosong&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
 </p>
 
 #### LANGUAGE & TOOLS
