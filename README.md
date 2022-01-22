@@ -4,15 +4,18 @@ I'm Ricko from Indonesia, and I am a vocational high school student who is very 
 <br>
 <br>
 
-### MY GITHUB STATS
+## MY GITHUB STATS
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickosong&show_icons=true&theme=radical" align = "center"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickosong&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
 </p>
 
+![Mohammad Ricko Aprilianto's Activity Graph](https://activity-graph.herokuapp.com/graph?username=revaldy-30&custom_title=Reja%20Revaldy%20F's%20Contribution%20Graph&theme=tokyonight&bg_color=1A1B27&hide_border=true&line=70A5FD&point=70A5FD)
+<br/>
 
-#### LANGUAGE & TOOLS
+
+## LANGUAGE & TOOLS
 
 ![badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -24,14 +27,14 @@ I'm Ricko from Indonesia, and I am a vocational high school student who is very 
 ![badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-#### FRAMEWORK
+## FRAMEWORK
 
 ![badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-#### CONTACT
+## CONTACT
 
 <a href="https://open.spotify.com/user/31agt6eozvk77m6tjpftq2smqr4e"> ![badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) </a>
 ![badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
