@@ -37,5 +37,4 @@ I'm Ricko from Indonesia, and I am a college student who is very interested in t
 ## CONTACT
 
 <a href="https://open.spotify.com/user/31agt6eozvk77m6tjpftq2smqr4e"> ![badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) </a>
-<a href="mailto:ricko.aprilianto00@gmail.com"> ![badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 <a href="https://www.instagram.com/morito_desu/"> ![badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) </a>
