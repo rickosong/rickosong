@@ -11,9 +11,6 @@ I'm Ricko from Indonesia, and I am a college student who is very interested in t
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickosong&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
 </p>
 
-![Mohammad Ricko Aprilianto's Activity Graph](https://activity-graph.herokuapp.com/graph?username=rickosong&custom_title=Mohammad%20Ricko%20Aprilianto's%20Contribution%20Graph&theme=radical&bg_color=1A1B27&hide_border=true&line=70A5FD&point=70A5FD)
-<br/>
-
 
 ## LANGUAGE & TOOLS
 
