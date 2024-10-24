@@ -8,7 +8,7 @@ I'm Ricko from Indonesia, and I am a college student who is very interested in t
 
 <p align="center">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rickosong&show_icons=true&theme=radical" align = "center"/> -->
-  <img height=350em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickosong&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
+  <img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickosong&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
 </p>
 
 
