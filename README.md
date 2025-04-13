@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ricko from Indonesia, and I am a college student who is very interested in the world of programming especially web programming, I like to learn new things about technology and programming.
+I'm Ricko from Indonesia, and I am a college student who is very interested in the world of programming especially web and mobile programming, I like to learn new things about technology and programming.
 <br>
 <br>
 
